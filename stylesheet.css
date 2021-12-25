@@ -1,0 +1,43 @@
+<style>
+
+		.circle{
+			background-radius: 100%;
+		}
+	 .rightnav {
+            width: 30%;
+            text-align: right;
+        }
+ 
+        #search {
+            padding: 5px;
+            font-size: 12px;
+            border: 2px solid grey;
+            border-radius: 9px;
+		}
+		img:hover {
+			color: white;
+		}
+		body
+		{
+			background-color: #F2ffe9;
+		}
+		hr
+		{
+	
+			border-style: none;
+			border-top-style: dotted;
+			border-color: grey;
+			border-width: 5px;
+			width: 5%;
+			
+		}
+		h1
+		{
+			color: #66BFBF;
+		}
+        h3
+		{
+			color: #66BFBF;
+		}
+        
+</style>
